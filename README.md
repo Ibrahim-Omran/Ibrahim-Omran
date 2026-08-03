@@ -36,23 +36,22 @@
 
   <!-- Streak Stats -->
   <a href="https://github.com/Ibrahim-Omran">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ibrahim-Omran&theme=black-ice&hide_border=true" alt="Ibrahim Omran Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ibrahim-Omran&theme=black-ice&hide_border=true&v=2" alt="Ibrahim Omran Streak" />
   </a>
 
   <br /><br />
 
-  <!-- GitHub Stats & Top Languages -->
+  <p align="center">
+  <!-- GitHub Stats (مع إلغاء الكاش) -->
   <a href="https://github.com/Ibrahim-Omran">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ibrahim-Omran&show_icons=true&theme=react&hide_border=true" alt="Ibrahim Omran Github Stats" height="165" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ibrahim-Omran&show_icons=true&theme=react&hide_border=true&cache_seconds=0&v=10" alt="Ibrahim Omran Github Stats" height="165" />
   </a>
+  &nbsp;
+  <!-- Top Languages (إلغاء الكاش + استبعاد اللغات الفرعية) -->
   <a href="https://github.com/Ibrahim-Omran">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ibrahim-Omran&langs_count=5&layout=compact&theme=react&hide_border=true" alt="Ibrahim Omran Top Languages" height="165" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ibrahim-Omran&langs_count=5&layout=compact&theme=react&hide_border=true&hide=javascript,html,cmake,c++&cache_seconds=0&v=10" alt="Ibrahim Omran Top Languages" height="165" />
   </a>
-
-  <br /><br />
-
-  <!-- Divider Line -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 </div>
 
